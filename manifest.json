@@ -1,6 +1,7 @@
 {
   "id": "ergo-snippet",
   "name": "Ergo snippet",
+  "listed": false,
   "version": "4.38.0",
   "description": "Today from Ergo in a small window kept on top, installed and updated separately from Ergo.",
   "download_url": "https://github.com/Dylan-Ambrose/ergo-snippet-downloads/releases/download/v4.38.0/ErgoSnippet-Setup.exe",
