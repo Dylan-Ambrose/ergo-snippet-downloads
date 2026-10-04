@@ -2,14 +2,13 @@
   "id": "ergo-snippet",
   "name": "Ergo snippet",
   "listed": false,
-  "version": "4.41.0",
+  "version": "4.41.2",
   "description": "Today from Ergo in a small window kept on top, installed and updated separately from Ergo.",
-  "download_url": "https://github.com/Dylan-Ambrose/ergo-snippet-downloads/releases/download/v4.41.0/ErgoSnippet-Setup.exe",
+  "download_url": "https://github.com/Dylan-Ambrose/ergo-snippet-downloads/releases/download/v4.41.2/ErgoSnippet-Setup.exe",
   "install_check_path": "%LOCALAPPDATA%\\Programs\\Ergo Snippet\\ErgoSnippet.exe",
   "data_format": 1,
   "icon_url": "https://raw.githubusercontent.com/Dylan-Ambrose/ergo-snippet-downloads/main/icon.png",
   "notes": [
-    "A light and dark switch beside the pin, remembered for the snippet without changing Ergo",
-    "Press the Ergo logo in the corner to open Ergo, or bring it forward when it is already open"
+    "With the Horizon accent, the focus ring and selection are Horizon's own blue"
   ]
 }
