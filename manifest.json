@@ -1,0 +1,14 @@
+{
+  "id": "ergo-snippet",
+  "name": "Ergo snippet",
+  "version": "4.38.0",
+  "description": "Today from Ergo in a small window kept on top, installed and updated separately from Ergo.",
+  "download_url": "https://github.com/Dylan-Ambrose/ergo-snippet-downloads/releases/download/v4.38.0/ErgoSnippet-Setup.exe",
+  "install_check_path": "%LOCALAPPDATA%\\Programs\\Ergo Snippet\\ErgoSnippet.exe",
+  "data_format": 1,
+  "icon_url": "https://raw.githubusercontent.com/Dylan-Ambrose/ergo-snippet-downloads/main/icon.png",
+  "notes": [
+    "The snippet installs on its own, from Ergo's Settings, About, and works on the same day as Ergo",
+    "Refuses to change a day kept in a newer format than it understands, and says so"
+  ]
+}
