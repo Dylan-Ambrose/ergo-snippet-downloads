@@ -2,13 +2,14 @@
   "id": "ergo-snippet",
   "name": "Ergo snippet",
   "listed": false,
-  "version": "4.39.0",
+  "version": "4.39.1",
   "description": "Today from Ergo in a small window kept on top, installed and updated separately from Ergo.",
-  "download_url": "https://github.com/Dylan-Ambrose/ergo-snippet-downloads/releases/download/v4.39.0/ErgoSnippet-Setup.exe",
+  "download_url": "https://github.com/Dylan-Ambrose/ergo-snippet-downloads/releases/download/v4.39.1/ErgoSnippet-Setup.exe",
   "install_check_path": "%LOCALAPPDATA%\\Programs\\Ergo Snippet\\ErgoSnippet.exe",
   "data_format": 1,
   "icon_url": "https://raw.githubusercontent.com/Dylan-Ambrose/ergo-snippet-downloads/main/icon.png",
   "notes": [
-    "Three accents: Discovery, Averic and Horizon. A removed one you had picked becomes Averic"
+    "A task moved to tomorrow stays there when the snippet is left open overnight",
+    "Your Averic sign-in no longer drops when two apps save it at the same moment"
   ]
 }
