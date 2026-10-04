@@ -1,6 +1,8 @@
 {
   "id": "ergo-snippet",
   "name": "Ergo snippet",
+  "parent": "ergo",
+  "exe": "ErgoSnippet.exe",
   "listed": false,
   "version": "4.41.2",
   "description": "Today from Ergo in a small window kept on top, installed and updated separately from Ergo.",
