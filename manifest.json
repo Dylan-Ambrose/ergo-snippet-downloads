@@ -4,6 +4,7 @@
   "parent": "ergo",
   "exe": "ErgoSnippet.exe",
   "listed": false,
+  "pro": true,
   "version": "4.41.2",
   "description": "Today from Ergo in a small window kept on top, installed and updated separately from Ergo.",
   "download_url": "https://github.com/Dylan-Ambrose/ergo-snippet-downloads/releases/download/v4.41.2/ErgoSnippet-Setup.exe",
