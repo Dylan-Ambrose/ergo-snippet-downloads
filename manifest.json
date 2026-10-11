@@ -13,5 +13,10 @@
   "icon_url": "https://raw.githubusercontent.com/Dylan-Ambrose/ergo-snippet-downloads/main/icon.png",
   "notes": [
     "Groundwork for the Mac version of the Ergo snippet"
-  ]
+  ],
+  "mac": {
+    "version": "4.42.1",
+    "download_url": "https://github.com/Dylan-Ambrose/ergo-downloads/releases/download/v4.42.1/Ergo.dmg",
+    "install_check_path": "/Applications/Ergo Snippet.app"
+  }
 }
