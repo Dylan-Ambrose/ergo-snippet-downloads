@@ -5,14 +5,14 @@
   "exe": "ErgoSnippet.exe",
   "listed": false,
   "pro": true,
-  "version": "4.45.0",
+  "version": "4.47.0",
   "description": "Today from Ergo in a small window kept on top, installed and updated separately from Ergo.",
-  "download_url": "https://github.com/Dylan-Ambrose/ergo-snippet-downloads/releases/download/v4.45.0/ErgoSnippet-Setup.exe",
+  "download_url": "https://github.com/Dylan-Ambrose/ergo-snippet-downloads/releases/download/v4.47.0/ErgoSnippet-Setup.exe",
   "install_check_path": "%LOCALAPPDATA%\\Programs\\Ergo Snippet\\ErgoSnippet.exe",
   "data_format": 1,
   "icon_url": "https://raw.githubusercontent.com/Dylan-Ambrose/ergo-snippet-downloads/main/icon.png",
   "notes": [
-    "Keeps the repeat settings Ergo 4.45.0 adds when the snippet saves your day"
+    "The snippet in the Family design: capsule pills, the iPhone's rows and length badges"
   ],
   "mac": {
     "version": "4.45.0",
